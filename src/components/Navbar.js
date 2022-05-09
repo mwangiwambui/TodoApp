@@ -13,7 +13,7 @@ const Navbar = () => {
     },
     {
       id : 2,
-      path: "/todoapp/about",
+      path: "/todoapp/about/",
       text: "About",
     }
   ]

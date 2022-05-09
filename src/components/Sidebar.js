@@ -12,7 +12,7 @@ const Sidebar = props => {
     },
     {
       id : 2,
-      path: "/todoapp/about",
+      path: "/todoapp/about/",
       text: "About",
     }
   ]
