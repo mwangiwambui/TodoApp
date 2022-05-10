@@ -71,7 +71,7 @@ const TodoContainer = () => {
     <>
       <Sidebar pageWrapId={"page-wrap"} outerContainer={"TodoContainer"} />
       <Switch>
-        <Route exact path="/todoapp">
+        <Route exact path="/todoapp/">
           <div className="container" id="page-wrap">
             <div className="inner">
               <Header />

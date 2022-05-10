@@ -7,7 +7,7 @@ const Sidebar = props => {
   const links = [
     {
       id: 1,
-      path: "/todoapp",
+      path: "/todoapp/",
       text: "Home",
     },
     {
